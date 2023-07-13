@@ -1,7 +1,7 @@
 
 {
     "scripts": {
-        "test-setup": "",
+        "test-setup": "pip install flask",
         "test":""
     }
 }
