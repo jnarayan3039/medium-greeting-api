@@ -2,7 +2,7 @@
 {
     "scripts": {
         "test-setup": "npm install flask",
-        "test":""
+        "test":"print('test')"
     }
 }
 
