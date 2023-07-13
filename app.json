@@ -1,10 +1,8 @@
+
 {
-    "environments": {
-      "test": {
-        "scripts": {
-          "test-setup": "npm install flask",
-          "test":""
-        }
-      }
+    "scripts": {
+        "test-setup": "npm install flask",
+        "test":""
     }
-  }
+}
+
