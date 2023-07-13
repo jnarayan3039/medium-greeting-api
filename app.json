@@ -1,8 +1,8 @@
 
 {
     "scripts": {
-        "test-setup": "npm install flask",
-        "test":"print('test')"
+        "test-setup": "",
+        "test":""
     }
 }
 
