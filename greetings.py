@@ -9,6 +9,7 @@ def respond():
 
     # For debugging
     print(f"Received: {name}")
+    print(f"Received: {name}")
 
     response = {}
 
